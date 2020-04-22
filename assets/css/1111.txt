@@ -1,0 +1,27 @@
+﻿<strong>重要</strong>
+<em>强调</em>
+<b>提醒 无语气</b>
+<i>名词 无语气</i>
+<cite>引用 参考</cite>
+<blockquote>引述块级文本</blockquote>
+<q>引述行内文本</q>
+<time>时间</time>
+<dfn>术语</dfn>
+<sup><sub>上标 下标</sup></sub>
+<address>联系信息</address>
+<ins>新添加的内容</ins>
+<del>不准确 删除的内容</del>
+<code>源代码</code>
+<kbd>input信息</kbd>
+<samp>终端输出信息</samp>
+<var>变量值</var>
+<pre>预格式化文本</pre>
+<mark>突出显示文本 荧光笔</mark>
+<br>换行
+<wbr>可换行处
+<span>无语义</span>
+<u>专有名词 非文本注解 错误</u>
+
+<ruby>旁注
+	旁 <rp>(</rp><rt>páng</rt><rp>)</rp>
+</ruby>

@@ -1,0 +1,58 @@
+﻿#icon {
+	float:left; margin:0 5px 5px 0;
+}
+
+h1,
+h2,
+h3 {
+	font-weight: normal;
+}
+	
+body {
+	font-family: "微软雅黑","等线","宋体";
+	background-color: #E0FFFF;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+caption {
+	font-size: .8125em;
+	font-weight: bold;
+	margin-bottom: .5em;
+}
+
+table {
+	width: 100%;
+}
+
+th,
+td {
+	font-size: .875em;
+	padding: .5em .75em;
+	border: 1px solid #BBBBBB;
+	text-align:center;
+}
+
+th {
+	background-color: white;
+}
+
+td {
+	background-color: #99CCFF;
+}
+
+tfoot {
+	font-style: italic;
+	font-weight: bold;
+}
+	
+.breakLine {
+	word-break: break-all;
+}
+
+a {
+	color: #220088;
+}
+
