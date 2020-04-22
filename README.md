@@ -30,13 +30,6 @@
 			<img src="assets\images\test.png" width="180" height="180" alt="提示" />
 		</figure>
 	</article>
-	
-	<article>
-		<h1 title="">推荐</h1>
-		<!-- 列表 -->
-			<ul>
-				<li><a></a></li>
-	</article>
 </main>
 
 <!-- 补充 侧栏 -->	
