@@ -17,8 +17,8 @@ header{
 	margin-top:0px;
 }
 button.mdicon{
-	height:100;
-	width:54px;
+	height:100%;
+	width:auto;
 	float:left;
 	background-color:white;
 	border:none;
