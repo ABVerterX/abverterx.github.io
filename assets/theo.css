@@ -2,3 +2,6 @@ body {
     /*background-color: #ffffff;*/
     color: white;
 }
+.card-header {
+    color: white;
+}
