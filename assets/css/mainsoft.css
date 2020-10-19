@@ -55,6 +55,7 @@ tfoot {
 a {
 	color: #220088;
 }
-.'col-md-6 cate' {
+.card-header {
         background-color: black;
 }
+
