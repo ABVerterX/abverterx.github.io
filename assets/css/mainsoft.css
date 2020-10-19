@@ -59,7 +59,8 @@ a {
         background: black!important;
 }
 .card {
-	background: #ffffff;
+	background-color: #ffffff;
+        color: #FFFFFF;
 	margin-bottom: 1rem;
 	width: 100%;
 }
