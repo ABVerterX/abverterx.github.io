@@ -56,7 +56,7 @@ a {
 	color: #220088;
 }
 .card-header {
-        background-color: black!important;
+        background: black!important;
 }
 .card {
 	background: #ffffff;
