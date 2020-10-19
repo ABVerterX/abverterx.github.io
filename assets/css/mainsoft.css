@@ -58,4 +58,8 @@ a {
 .card-header {
         background-color: black!important;
 }
-
+.card {
+	background: #ffffff;
+	margin-bottom: 1rem;
+	width: 100%;
+}
