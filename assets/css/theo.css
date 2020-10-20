@@ -4,6 +4,8 @@ body {
 
 .card {
     background-color: black;
+    color: black;
+
 }
 
 dl.row, ul.row {
