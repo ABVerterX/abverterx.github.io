@@ -2,6 +2,10 @@ body {
     background-color: #ffffff!important;
 }
 
+.card {
+    background-color: black;
+}
+
 dl.row, ul.row {
 	display: table;
 	width: 100% !important;
