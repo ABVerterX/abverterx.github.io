@@ -1,3 +1,7 @@
+body {
+    color: white;
+}
+
 dl.row, ul.row {
 	display: table;
 	width: 100% !important;
