@@ -14,9 +14,7 @@ body {
 }
 
 .card {
-    background-color: black;
-    color: black;
-
+    background-color: #ffffff!important;
 }
 
 dl.row, ul.row {
@@ -175,7 +173,6 @@ ul.forumlist>li>ul>li>a.active {
 
 
 .card {
-	background: #FAFAFA;
 	margin-bottom: 1rem;
 	width: 100%;
 }
